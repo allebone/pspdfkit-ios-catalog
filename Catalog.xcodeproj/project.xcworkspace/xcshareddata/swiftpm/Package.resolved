@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "instant-sp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PSPDFKit/Instant-SP.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "865422a474455f20c72c6afa55e1b30ed08a6232"
+      }
+    },
+    {
+      "identity" : "pspdfkit-sp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PSPDFKit/PSPDFKit-SP.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "66a3c27812ed4ec188938c28cd65fe1fbb26d275"
+      }
+    },
+    {
+      "identity" : "pspdfkitocr-sp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PSPDFKit/PSPDFKitOCR-SP.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b67873d22eb83fa4c6243511a8088bf3e26f5a6e"
+      }
+    }
+  ],
+  "version" : 2
+}
